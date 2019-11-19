@@ -1,0 +1,17 @@
+{
+    "name": "diskominfo-muaraenim/multi-auth",
+    "type": "library",
+    "description": "Ini adalah package multiauth",
+    "keywords": [
+        "Multiauth untuk Login app kedinasan"
+    ],
+    "homepage": "http://muaraenimkab.go.id",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arief Kahfi & Bayu Ghara",
+            "email": "bayughara8@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
